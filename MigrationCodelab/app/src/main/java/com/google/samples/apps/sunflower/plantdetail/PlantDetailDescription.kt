@@ -24,6 +24,5 @@ import androidx.compose.runtime.Composable
 fun PlantDetailDescription() {
     Surface {
         Text("Hello Compose")
-        Text("changed")
     }
 }
